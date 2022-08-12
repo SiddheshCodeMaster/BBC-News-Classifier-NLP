@@ -1,0 +1,9 @@
+ Running the classifier.. :: 2022-08-12 22:46:53,629 | root | INFO|MainThread
+  * Restarting with watchdog (windowsapi) :: 2022-08-12 22:46:53,675 | werkzeug | INFO|MainThread
+ Running the classifier.. :: 2022-08-12 22:46:56,438 | root | INFO|MainThread
+  * Debugger is active! :: 2022-08-12 22:46:56,454 | werkzeug | WARNING|MainThread
+  * Debugger PIN: 125-381-811 :: 2022-08-12 22:46:56,473 | werkzeug | INFO|MainThread
+  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment. :: 2022-08-12 22:46:57,484 | werkzeug | WARNING|Thread-2 (inner)
+  * Running on http://192.168.31.53:5002/ (Press CTRL+C to quit) :: 2022-08-12 22:46:57,485 | werkzeug | INFO|Thread-2 (inner)
+ 127.0.0.1 - - [12/Aug/2022 22:52:41] "POST /auto_labeller HTTP/1.1" 200 - :: 2022-08-12 22:52:41,937 | werkzeug | INFO|Thread-6 (process_request_thread)
