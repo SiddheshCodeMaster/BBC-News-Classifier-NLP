@@ -1,1 +1,1 @@
-# End-to-End-BBC-News-Classifier-NLP
+# BBC-News-Classifier-NLP
